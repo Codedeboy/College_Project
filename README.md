@@ -1,8 +1,8 @@
-#About
+About
 
 This is college subject project , in which to perform some opearation that based on datasets and data analytic 
 
-#Operations
+Operations
 
 -Initialising datasets
 -Printing dataset
@@ -14,7 +14,7 @@ This is college subject project , in which to perform some opearation that based
                 -Simple regression 
                 -Sentiment analysis
 
-#Used language 
+Used language 
 
 -Python
 
@@ -24,6 +24,6 @@ This is college subject project , in which to perform some opearation that based
 -Github
 -Chatgpt
 
-#Author
+Author
 
 -codedboy
